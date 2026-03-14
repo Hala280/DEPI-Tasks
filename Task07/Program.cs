@@ -33,7 +33,7 @@ class Program
             context.Database.EnsureCreated();
             var student = new Student
             {
-                Name = "John Doe",
+                Name = "Hala Ayman",
                 Age = 20,
                 Grade = "A"
             };
